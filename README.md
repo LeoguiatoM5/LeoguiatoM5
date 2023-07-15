@@ -21,5 +21,5 @@ Minha jornada no campo de QA me proporcionou uma sólida compreensão dos proces
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias sobre tecnologia e desenvolvimento de software.
 
-- [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-guiato-4ab6b2282/)
+- [LinkedIn](https://www.linkedin.com/in/leonardo-guiato-062438267/)
 
