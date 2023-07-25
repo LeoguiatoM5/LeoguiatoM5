@@ -17,8 +17,6 @@ Minha jornada no campo de QA me proporcionou uma sólida compreensão dos proces
 
 
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoguiatoM5&show_icons=true&theme=radical)
-
 
 
 ## Contato
