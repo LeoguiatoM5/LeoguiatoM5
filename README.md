@@ -1,6 +1,6 @@
 # Leonardo Guiato
-
-- [LinkedIn](https://www.linkedin.com/in/leonardo-guiato-062438267/)    Acesse meu Linkdin
+ ``Acesse meu Linkdin``
+- [LinkedIn](https://www.linkedin.com/in/leonardo-guiato-062438267/)    
 
 Olá! Sou  Analista de Teste de Software QA em transição de carreira para Desenvolvedor Full Stack. Sou apaixonado por tecnologia e estou constantemente aprendendo e explorando novas habilidades no desenvolvimento de software.
 
@@ -21,7 +21,7 @@ Minha jornada no campo de QA me proporcionou uma sólida compreensão dos proces
 
 
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias sobre tecnologia e desenvolvimento de software.
+``Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias sobre tecnologia e desenvolvimento de software.``
   
 - [WhatsApp](https://wa.me/5555189919883/)
 
